@@ -15,6 +15,6 @@
 6. cd to the directory where requirements.txt is located in your local. Run 
    ```pip install -r requirements.txt```
 7.  Navigate to any test folder and look for the runner files and run the following command: 
-    ```pytest test.py```
+    ```pytest simple_test.py```
 
 
